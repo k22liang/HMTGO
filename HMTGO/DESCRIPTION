@@ -1,0 +1,17 @@
+Package: HMTGO
+Type: Package
+Title: Hidden Markov tree method for Gene Ontology
+Version: 1.0
+Date: 2016-12-09
+Author: Kun Liang, Chuanlong Du, and Hankun You
+Maintainer: Kun Liang <kun.liang@uwaterloo.ca>
+Description: This package contains three functions (buildtree, getpval, HMT) for Hidden Markov tree model to analyze gene sets annotated in Gene Ontology.
+License: GPL-2
+LazyData: TRUE
+Depends: GO.db (>= 3.1.2),globaltest (>=
+        5.22.0),AnnotationDbi(>= 1.30.1), R (>= 3.0)
+Imports: Rcpp(>= 0.12.0)
+LinkingTo: Rcpp
+SystemRequirements: C++11
+NeedsCompilation: yes
+Packaged: 2016-12-09 02:16:45 UTC; kliang

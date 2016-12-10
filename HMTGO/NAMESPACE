@@ -1,0 +1,5 @@
+##exportPattern("^[[:alpha:]]+")
+export(getDAG, getGeneSet, buildTree, getpval, HMT)
+importFrom(Rcpp, evalCpp)
+import(GO.db, globaltest,AnnotationDbi)
+useDynLib(HMTGO)

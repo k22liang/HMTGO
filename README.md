@@ -1,6 +1,6 @@
 # HMTGO
 
-An R package for hidden Markov tree model for testing multiple hypotheses corresponding to Gene Ontology gene sets (HMTGO).
+An R package for a hidden Markov tree model for testing multiple hypotheses corresponding to Gene Ontology gene sets (HMTGO).
 
 ### Overview
 

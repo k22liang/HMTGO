@@ -10,6 +10,7 @@ We develop a computationally efficient method based on a hidden Markov tree mode
 
 The main function is `HMT`, see the corresponding help file for details.
 
+Citation:
 Kun Liang, Chuanlong Du, Hankun You, and Dan Nettleton (2018).  A hidden Markov tree model for testing multiple hypotheses corresponding to gene ontology gene sets. BMC Bioinformatics, 19 107.
 
 ### Installation
